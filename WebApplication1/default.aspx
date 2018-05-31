@@ -16,7 +16,15 @@
         <br />
         <asp:Button ID="Button2" runat="server" OnClick="Button2_Click" Text="Push Sticker Message" />
     
+        <br />
+        <br />
+    
+        <asp:Button ID="Button3" runat="server" OnClick="Button3_Click" Text="Push Tempate Message" />
+    
     </div>
+        <p>
+            <asp:Button ID="Button4" runat="server" OnClick="Button4_Click" Text="button" />
+        </p>
     </form>
 </body>
 </html>
